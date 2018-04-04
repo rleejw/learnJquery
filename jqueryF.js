@@ -5,6 +5,7 @@
     //    lis[0] //-> <li>
     //    lis.length // --> 3 
     //    lis.html() // --> "Hello world"
+    //    ## this is now in git
     
     $ = function(selector){
         // if `this` is not correct

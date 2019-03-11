@@ -93,7 +93,8 @@
             }
         }
     });
-    
+   
+    // why do we need to do a prototype here? 
     $.extend($.prototype,{
         
         // var $as = new $("a");
